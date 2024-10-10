@@ -1,0 +1,37 @@
+//1. navber --- upore navbar e thaka icon er upore mousehover korle tooltip dekhabe(home,profile)
+
+//2. banner ----  figma te jemon ache emonii dibo. 
+    => search korle category wise data asbe, lets discuss section e
+    => search btn e click korle lets discuss er age ekta loading spinner dekhate hobe
+
+
+
+//3. Let's discuss section ---- (using All POST API)
+    => layout ta emoni hote hobe.
+    => card gular sob info API theke asbe, all post api theke asbe, time,view count, msg, btn tai click korle right side e card er name, view count ta show korbe icon soho.
+    => upore mark as read e songkha barbe
+
+//4. Join purpose section --- just design korbo
+
+//5. Latest Posts --- (using latest post API)
+    =>cover img, author img, author name, pic esob oi PAI theke nibo
+
+    => publish date na pele ternary operator diye No Publish Date show korbo
+    
+
+
+-----------------B9A6-Retro-Forum
+=>  Private Repo Link
+Click here for the private repo: https://classroom.github.com/a/M685dkpe
+
+=>  API
+LatestPosts: - https://openapi.programming-hero.com/api/retro-forum/latest-posts
+
+=>  AllPosts: - https://openapi.programming-hero.com/api/retro-forum/posts
+
+=>  PostSearchByQuery
+PostByQuery: - https://openapi.programming-hero.com/api/retro-forum/posts?category=categoryName
+
+Example
+PostByQuery: - https://openapi.programming-hero.com/api/retro-forum/posts?category=coding
+    
